@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/walidbouladam/Desktop/Personal-Projects/Learn-CSHARP/Learn-CSHARP.csproj",
-      "projectName": "Learn-CSHARP",
-      "projectPath": "/Users/walidbouladam/Desktop/Personal-Projects/Learn-CSHARP/Learn-CSHARP.csproj",
+      "projectUniqueName": "/Users/walidbouladam/Desktop/Personal-Projects/Learn-CSHARP/C#11-Dotnet7/chapter01-vscode/HelloC#/HelloC#.csproj",
+      "projectName": "HelloC#",
+      "projectPath": "/Users/walidbouladam/Desktop/Personal-Projects/Learn-CSHARP/C#11-Dotnet7/chapter01-vscode/HelloC#/HelloC#.csproj",
       "packagesPath": "/Users/walidbouladam/.nuget/packages/",
-      "outputPath": "/Users/walidbouladam/Desktop/Personal-Projects/Learn-CSHARP/obj/",
+      "outputPath": "/Users/walidbouladam/Desktop/Personal-Projects/Learn-CSHARP/C#11-Dotnet7/chapter01-vscode/HelloC#/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/walidbouladam/.nuget/NuGet/NuGet.Config"
