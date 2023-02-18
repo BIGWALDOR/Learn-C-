@@ -2,7 +2,7 @@
 
 This repo is to help compile and document my practical learning using C# and .NET.
 
-I am learning through reading the following book:
+I am learning C# and .NET by reading the following book:
 
 ## C# 11 and .NET 7 - Modern Cross-Platform Development Fundamentals - Seventh Edition by Mark J. Price
 
