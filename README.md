@@ -25,3 +25,13 @@ In this chapter I learned about the following:
 - Using some of the bulit-in types for numbers, texts and booleans.
 - Choosing between numeric types.
 - Control output formatting in console apps.
+
+### Chapter 3 - Speaking C#
+
+In this chapter I learned about the following:
+
+- Use operators to perform simple tasks.
+- Use branch and loop statements to implement logic.
+- Work with single- and multi-dimensional arrays.
+- Convert between types.
+- Catch exceptions.
